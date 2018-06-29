@@ -1,0 +1,18 @@
+li {
+    cursor: pointer;
+    position: relative;
+    left: 0;
+    overflow: hidden;
+    background-color: rgb(235, 248, 250);
+    margin: .5em;
+    
+    border-radius: 4px;
+  }
+
+
+
+
+  .selected {
+    background-color: #CFD8DC !important;
+    color: white;
+  }
